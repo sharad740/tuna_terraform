@@ -1,2 +1,1 @@
-Infrastructure as Code
-# tuna_terraform
+# Tuna - Infrastructure as Code
